@@ -9,17 +9,16 @@ Use LTSpice, MATLAB, or Falstad to test the circuit behavior.
 Compare different design approaches and optimize performance.
 Implementation
 Instead of directly using existing solutions, I have:
-✅ Analyzed the required circuit configurations.
-✅ Designed my own waveform generator circuits.
-✅ Simulated them in LTSpice (or MATLAB/Falstad).
-✅ Verified outputs and adjusted parameters for better performance.
+1. Analyzed the required circuit configurations.
+2. Designed my own waveform generator circuits.
+3. Simulated them in LTSpice (or MATLAB/Falstad).
+4. Verified outputs and adjusted parameters for better performance.
 
 Project Structure
-📂 SineWave_Generator/ – Contains design and simulation files for the sine wave generator.
-📂 SquareWave_Generator/ – Contains design and simulation files for the square wave generator.
-📂 TriangularWave_Generator/ – Contains design and simulation files for the triangular wave generator.
-📜 LICENSE – MIT License for open-source contribution.
-📜 README.md – This documentation file.
+-  SineWave_Generator/ – Contains design and simulation files for the sine wave generator.
+-  SquareWave_Generator/ – Contains design and simulation files for the square wave generator.
+-  TriangularWave_Generator/ – Contains design and simulation files for the triangular wave generator.
+
 
 Tools Used
 LTSpice – For circuit simulation
