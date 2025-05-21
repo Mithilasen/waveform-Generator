@@ -1,10 +1,10 @@
 # waveform-Generator
  A simple waveform generator using op-amps, simulated in LTSpice/MATLAB
  Overview
-This project focuses on designing and simulating different waveform generators (Sine, Square, and Triangular) using operational amplifiers. The goal is to understand signal generation techniques and apply circuit design concepts to create custom waveform generators.
+This project focuses on designing and simulating different waveform generator (sine) using operational amplifiers. The goal is to understand signal generation techniques and apply circuit design concepts to create custom waveform generators.
 
 Objective
-Design and simulate circuits for generating Sine, Square, and Triangular waveforms.
+Design and simulate circuits for generating Sine waveforms
 Use LTSpice, MATLAB, or Falstad to test the circuit behavior.
 Compare different design approaches and optimize performance.
 Implementation
@@ -16,9 +16,6 @@ Instead of directly using existing solutions, I have:
 
 Project Structure
 -  SineWave_Generator/ – Contains design and simulation files for the sine wave generator.
--  SquareWave_Generator/ – Contains design and simulation files for the square wave generator.
--  TriangularWave_Generator/ – Contains design and simulation files for the triangular wave generator.
-
 
 Tools Used
 LTSpice – For circuit simulation
